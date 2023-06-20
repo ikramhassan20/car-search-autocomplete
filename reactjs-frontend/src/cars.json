@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Toyota Corolla",
+    "price": "AED 19,500"
+  },
+  {
+    "id": "2",
+    "name": "Honda Civic",
+    "price": "AED 21,000"
+  },
+  {
+    "id": "3",
+    "name": "Ford Mustang",
+    "price": "AED 27,000"
+  },
+  {
+    "id": "4",
+    "name": "Honda City",
+    "price": "AED 16,000"
+  },
+  {
+    "id": "5",
+    "name": "Honda City Aspire",
+    "price": "AED 17,000"
+  },
+  {
+    "id": "6",
+    "name": "Honda BRV",
+    "price": "AED 19,000"
+  },
+  {
+    "id": "6",
+    "name": "Honda HRV",
+    "price": "AED 35,000"
+  },
+  {
+    "id": "7",
+    "name": "KIA",
+    "price": "AED 35,000"
+  },
+  {
+    "id": "7",
+    "name": "MG",
+    "price": "AED 38,000"
+  },
+  {
+    "id": "8",
+    "name": "Audi",
+    "price": "AED 45,000"
+  },
+  {
+    "id": "9",
+    "name": "BMW",
+    "price": "AED 55,000"
+  },
+  {
+    "id": "10",
+    "name": "Mercedes",
+    "price": "AED 65,000"
+  }
+]
